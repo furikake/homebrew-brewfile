@@ -111,11 +111,15 @@ brew 'rbenv'
 # Scala
 brew 'sbt'
 
+# Mac App dependencies
+cask 'xquartz' #required by inkscape
+
 # Mac Apps
 cask '1password'
 cask 'alfred'
 cask 'caffeine'
-cask 'dbeaver'
+cask 'dbeaver-community'
+cask 'dropbox'
 cask 'evernote'
 cask 'firefox'
 cask 'freeplane'
@@ -128,7 +132,6 @@ cask 'postman'
 cask 'slack'
 cask 'sublime-text'
 cask 'vlc'
-cask 'xquartz'
 
 # Photos / Images
 brew 'autotrace'

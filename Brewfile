@@ -5,6 +5,9 @@ tap 'homebrew/completions'
 tap 'homebrew/dupes'
 tap 'pivotal/tap'
 
+# Mac App Store
+brew 'mas'
+
 # GNU
 brew 'autoconf'
 brew 'autojump'

@@ -134,6 +134,7 @@ cask 'intellij-idea-ce'
 cask 'iterm2'
 cask 'postman'
 cask 'slack'
+cask 'spectacle'
 cask 'sublime-text'
 cask 'vlc'
 

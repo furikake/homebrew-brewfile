@@ -85,6 +85,7 @@ brew 'cabal-install'
 brew 'heroku'
 
 # Java
+brew 'gradle'
 cask 'java'
 brew 'springboot'
 

@@ -62,6 +62,7 @@ brew 'ssh-copy-id'
 
 # AWS
 brew 'awscli'
+brew 'awsebcli'
 brew 'ec2-api-tools'
 
 # Config Management

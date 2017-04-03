@@ -71,6 +71,9 @@ brew 'ansible'
 # Clojure
 brew 'leiningen'
 
+# Database
+brew 'pgcli'
+
 # Git
 cask 'gitup'
 cask 'sourcetree'

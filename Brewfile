@@ -26,6 +26,7 @@ brew 'gnutls'
 brew 'grep'
 brew 'md5sha1sum'
 brew 'openssl'
+brew 'parallel'
 brew 'wget'
 
 # Shell / System

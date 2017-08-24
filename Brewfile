@@ -46,6 +46,7 @@ brew 'zsh-completions'
 brew 'arp-scan'
 brew 'cntlm'
 brew 'mtr'
+brew 'socat'
 brew 'wrk'
 
 # General Dev Tools

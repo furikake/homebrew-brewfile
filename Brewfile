@@ -14,6 +14,7 @@ brew 'autojump'
 brew 'automake'
 brew 'autossh'
 brew 'coreutils'
+brew 'curl', args: ["--with-nghttp2"]
 brew 'findutils'
 brew 'gawk'
 brew 'gcc'

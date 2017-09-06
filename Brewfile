@@ -46,6 +46,7 @@ brew 'zsh-completions'
 # Network
 brew 'arp-scan'
 brew 'cntlm'
+brew 'ipcalc'
 brew 'mtr'
 brew 'socat'
 brew 'wrk'

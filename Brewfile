@@ -49,6 +49,7 @@ brew 'cntlm'
 brew 'ipcalc'
 brew 'mtr'
 brew 'socat'
+brew 'sslyze'
 brew 'wrk'
 
 # General Dev Tools

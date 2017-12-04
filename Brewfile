@@ -71,6 +71,9 @@ brew 'awscli'
 brew 'awsebcli'
 brew 'ec2-api-tools'
 
+# CI/CD
+brew 'gitlab-runner'
+
 # Config Management
 brew 'ansible'
 

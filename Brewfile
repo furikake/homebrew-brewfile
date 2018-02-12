@@ -108,12 +108,8 @@ brew 'apache-drill'
 brew 'kafkacat'
 
 # Kubernetes
-cask 'minikube'
-brew 'docker-machine-driver-xhyve'
 brew 'kubernetes-cli'
-# docker-machine-driver-xhyve needs root owner and uid
-# sudo chown root:wheel $(brew --prefix)/opt/docker-machine-driver-xhyve/bin/docker-machine-driver-xhyve
-# sudo chmod u+s $(brew --prefix)/opt/docker-machine-driver-xhyve/bin/docker-machine-driver-xhyve
+brew 'kubectx'
 
 # NodeJS
 brew 'nodejs'

@@ -1,4 +1,5 @@
 tap 'caskroom/cask'
+tap 'caskroom/fonts'
 tap 'caskroom/versions'
 tap 'homebrew/bundle'
 tap 'homebrew/completions'
@@ -148,6 +149,11 @@ cask 'slack'
 cask 'spectacle'
 cask 'sublime-text'
 cask 'vlc'
+
+# Fonts
+cask 'font-meslo-for-powerline'
+cask 'font-consolas-for-powerline'
+cask 'font-inconsolata-for-powerline'
 
 # Photos / Images
 brew 'autotrace'

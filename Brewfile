@@ -67,6 +67,7 @@ brew 'nginx'
 brew 'packer'
 brew 'sqlite'
 brew 'ssh-copy-id'
+brew 'sysdig'
 
 # AWS
 brew 'awscli'

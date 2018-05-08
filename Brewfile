@@ -94,6 +94,9 @@ cask 'sourcetree'
 # Go
 brew 'go'
 
+# Google
+cask 'google-cloud-sdk'
+
 # Haskell
 brew 'ghc'
 brew 'cabal-install'

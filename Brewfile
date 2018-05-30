@@ -19,6 +19,7 @@ brew 'curl', args: ["--with-nghttp2"]
 brew 'findutils'
 brew 'gawk'
 brew 'gcc'
+brew 'git'
 brew 'gnu-getopt'
 brew 'gnu-indent'
 brew 'gnu-sed'

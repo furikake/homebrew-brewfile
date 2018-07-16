@@ -35,6 +35,7 @@ brew 'wget'
 
 # Shell / System
 brew 'bash-completion'
+brew 'bats'
 brew 'htop'
 brew 'p7zip'
 brew 'pass'

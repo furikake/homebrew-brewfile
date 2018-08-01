@@ -62,7 +62,6 @@ brew 'wrk'
 brew 'sshfs'
 brew 'asciinema'
 brew 'cloc'
-brew 'docker'
 brew 'httpie'
 brew 'jq'
 brew 'ldapvi'
@@ -78,7 +77,6 @@ brew 'awsebcli'
 brew 'ec2-api-tools'
 
 # CI/CD
-brew 'gitlab-runner'
 
 # Config Management
 brew 'ansible'

@@ -92,6 +92,7 @@ cask 'gitup'
 cask 'sourcetree'
 
 # Go
+brew 'dep'
 brew 'go'
 
 # Google

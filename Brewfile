@@ -119,8 +119,9 @@ brew 'kafkacat'
 brew 'kubernetes-cli'
 brew 'kubectx'
 
-# NodeJS
+# Javascript
 brew 'nodejs'
+brew 'yarn'
 
 # Python
 brew 'jython'

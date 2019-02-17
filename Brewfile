@@ -159,9 +159,10 @@ cask 'sublime-text'
 cask 'vlc'
 
 # Fonts
-cask 'font-meslo-for-powerline'
 cask 'font-consolas-for-powerline'
 cask 'font-inconsolata-for-powerline'
+cask 'font-meslo-for-powerline'
+cask 'font-source-code-pro'
 
 # Photos / Images
 brew 'autotrace'

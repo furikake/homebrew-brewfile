@@ -85,6 +85,7 @@ brew 'ansible'
 brew 'leiningen'
 
 # Database
+brew 'pgbadger'
 brew 'pgcli'
 
 # Git

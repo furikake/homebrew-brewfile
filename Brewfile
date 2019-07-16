@@ -99,7 +99,7 @@ brew 'ghc'
 brew 'cabal-install'
 
 # Java
-brew 'adoptopenjdk8'
+cask 'adoptopenjdk8'
 brew 'gdub'
 brew 'springboot'
 

@@ -152,7 +152,6 @@ cask 'font-meslo-for-powerline'
 cask 'font-source-code-pro'
 
 # Photos / Images
-brew 'autotrace'
 brew 'exiftool'
 brew 'imagemagick'
 

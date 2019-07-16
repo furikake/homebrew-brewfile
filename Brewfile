@@ -2,9 +2,6 @@ tap 'caskroom/cask'
 tap 'caskroom/fonts'
 tap 'caskroom/versions'
 tap 'homebrew/bundle'
-tap 'homebrew/completions'
-tap 'homebrew/dupes'
-tap 'pivotal/tap'
 
 # Mac App Store
 brew 'mas'
@@ -15,7 +12,7 @@ brew 'autojump'
 brew 'automake'
 brew 'autossh'
 brew 'coreutils'
-brew 'curl', args: ["--with-nghttp2"]
+brew 'curl-openssl'
 brew 'findutils'
 brew 'gawk'
 brew 'gcc'
@@ -107,9 +104,8 @@ brew 'cabal-install'
 brew 'heroku'
 
 # Java
+brew 'adoptopenjdk'
 brew 'gdub'
-brew 'gradle'
-cask 'java'
 brew 'springboot'
 
 # Apache
@@ -125,7 +121,6 @@ brew 'nodejs'
 brew 'yarn'
 
 # Python
-brew 'jython'
 brew 'python'
 brew 'python3'
 
@@ -150,7 +145,6 @@ cask 'flux'
 cask 'freeplane'
 cask 'gimp'
 cask 'google-chrome'
-cask 'inkscape'
 cask 'intellij-idea-ce'
 cask 'iterm2'
 cask 'postman'

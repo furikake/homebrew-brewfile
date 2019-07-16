@@ -56,7 +56,6 @@ brew 'sslyze'
 brew 'wrk'
 
 # General Dev Tools
-brew 'sshfs'
 brew 'asciinema'
 brew 'cloc'
 brew 'httpie'

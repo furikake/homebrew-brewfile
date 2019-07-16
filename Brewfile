@@ -98,9 +98,6 @@ cask 'google-cloud-sdk'
 brew 'ghc'
 brew 'cabal-install'
 
-# Heroku
-brew 'heroku'
-
 # Java
 brew 'adoptopenjdk8'
 brew 'gdub'

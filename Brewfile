@@ -103,7 +103,7 @@ brew 'cabal-install'
 brew 'heroku'
 
 # Java
-brew 'adoptopenjdk'
+brew 'adoptopenjdk8'
 brew 'gdub'
 brew 'springboot'
 
@@ -128,9 +128,6 @@ brew 'rbenv'
 
 # Scala
 brew 'sbt'
-
-# Mac App dependencies
-cask 'xquartz' #required by inkscape
 
 # Mac Apps
 cask '1password'

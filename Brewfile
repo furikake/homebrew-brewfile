@@ -46,6 +46,8 @@ brew 'zsh-completions'
 # Network
 brew 'arp-scan'
 brew 'cntlm'
+# start up by running `sudo brew services start dnsmasq`
+brew 'dnsmasq'
 brew 'ipcalc'
 brew 'mtr'
 brew 'nghttp2'

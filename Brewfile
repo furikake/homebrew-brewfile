@@ -102,6 +102,7 @@ brew 'cabal-install'
 
 # Java
 cask 'adoptopenjdk8'
+cask 'adoptopenjdk8-openj9'
 brew 'gdub'
 brew 'springboot'
 

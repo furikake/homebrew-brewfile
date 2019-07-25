@@ -2,6 +2,7 @@ tap 'caskroom/cask'
 tap 'caskroom/fonts'
 tap 'caskroom/versions'
 tap 'homebrew/bundle'
+tap 'AdoptOpenJDK/openjdk'
 
 # Mac App Store
 brew 'mas'

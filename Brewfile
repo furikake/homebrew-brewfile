@@ -68,6 +68,7 @@ brew 'packer'
 brew 'sqlite'
 brew 'ssh-copy-id'
 brew 'sysdig'
+brew 'the_silver_searcher'
 
 # AWS
 brew 'awscli'

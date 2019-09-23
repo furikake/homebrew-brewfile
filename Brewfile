@@ -75,6 +75,7 @@ brew 'the_silver_searcher'
 # AWS
 brew 'awscli'
 brew 'awsebcli'
+brew 'cli53'
 brew 'ec2-api-tools'
 
 # CI/CD

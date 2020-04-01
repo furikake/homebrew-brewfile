@@ -3,6 +3,7 @@ tap 'caskroom/fonts'
 tap 'caskroom/versions'
 tap 'homebrew/bundle'
 tap 'AdoptOpenJDK/openjdk'
+tap 'aws/tap'
 
 # Mac App Store
 brew 'mas'
@@ -73,10 +74,13 @@ brew 'sysdig'
 brew 'the_silver_searcher'
 
 # AWS
+cask 'aws-sam-cli'
 brew 'awscli'
 brew 'awsebcli'
+brew 'cfn-lint'
 brew 'cli53'
 brew 'ec2-api-tools'
+
 
 # CI/CD
 

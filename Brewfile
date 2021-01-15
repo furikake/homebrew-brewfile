@@ -96,7 +96,8 @@ brew 'pgbadger'
 brew 'pgcli'
 
 # Git
-cask 'gitup'
+brew 'git-extras'
+brew 'git-gui'
 cask 'sourcetree'
 
 # Go

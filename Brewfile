@@ -4,6 +4,7 @@ tap 'caskroom/versions'
 tap 'homebrew/bundle'
 tap 'AdoptOpenJDK/openjdk'
 tap 'aws/tap'
+tap 'gdubw/gng'
 
 # Mac App Store
 brew 'mas'
@@ -114,7 +115,7 @@ brew 'cabal-install'
 # Java
 cask 'adoptopenjdk8'
 cask 'adoptopenjdk8-openj9'
-brew 'gdub'
+brew 'gng'
 brew 'springboot'
 
 # Apache

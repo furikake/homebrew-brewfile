@@ -82,6 +82,7 @@ brew 'awsebcli'
 brew 'cfn-lint'
 brew 'cli53'
 brew 'ec2-api-tools'
+cask 'session-manager-plugin'
 
 
 # CI/CD

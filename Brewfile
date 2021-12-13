@@ -1,8 +1,7 @@
-tap 'caskroom/cask'
-tap 'caskroom/fonts'
-tap 'caskroom/versions'
+tap 'homebrew/cask'
+tap 'homebrew/cask-fonts'
+tap 'homebrew/cask-versions'
 tap 'homebrew/bundle'
-tap 'AdoptOpenJDK/openjdk'
 tap 'aws/tap'
 tap 'gdubw/gng'
 
@@ -15,7 +14,7 @@ brew 'autojump'
 brew 'automake'
 brew 'autossh'
 brew 'coreutils'
-brew 'curl-openssl'
+brew 'curl'
 brew 'findutils'
 brew 'gawk'
 brew 'gcc'
@@ -76,7 +75,7 @@ brew 'sysdig'
 brew 'the_silver_searcher'
 
 # AWS
-cask 'aws-sam-cli'
+# cask 'aws-sam-cli'
 brew 'awscli'
 brew 'awsebcli'
 brew 'cfn-lint'
@@ -88,10 +87,10 @@ cask 'session-manager-plugin'
 # CI/CD
 
 # Config Management
-brew 'ansible'
+# brew 'ansible'
 
 # Clojure
-brew 'leiningen'
+# brew 'leiningen'
 
 # Database
 brew 'pgbadger'
@@ -110,14 +109,11 @@ brew 'go'
 cask 'google-cloud-sdk'
 
 # Haskell
-brew 'ghc'
-brew 'cabal-install'
+# brew 'ghc'
+# brew 'cabal-install'
 
 # Java
-cask 'adoptopenjdk8'
-cask 'adoptopenjdk8-openj9'
 brew 'gng'
-brew 'springboot'
 
 # Apache
 brew 'apache-drill'
@@ -139,7 +135,7 @@ brew 'python3'
 brew 'rbenv'
 
 # Scala
-brew 'sbt'
+# brew 'sbt'
 
 # Mac Apps
 cask '1password'
@@ -149,7 +145,6 @@ cask 'dbeaver-community'
 cask 'dropbox'
 cask 'evernote'
 cask 'firefox'
-cask 'flux'
 cask 'freeplane'
 cask 'gimp'
 cask 'google-chrome'
